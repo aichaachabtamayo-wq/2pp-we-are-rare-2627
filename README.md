@@ -11,7 +11,8 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Teachers
 
 * [Sam Serrien](./people/sam_serrien.md)
-* [Aicha Achab Tamayo](./people/aicha_achabtamayo.md)
+
 
 
 ## Students
+* [Aicha Achab Tamayo](./people/aicha_achabtamayo.md)
