@@ -15,4 +15,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 ## Students
+* [Matteo Wouters](./people/matteo_wouters.md)
+
 * [Aicha Achab Tamayo](./people/aicha_achabtamayo.md)
+
