@@ -15,6 +15,8 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 ## Students
+* [Sarah Ejdaâ](./people/ejdaa.md)
+* [Erik Harding](./people/erik_harding.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
 * [Liza Kolumbet](./people/liza_kolumbet.md)
 * [Aicha Achab Tamayo](./people/aicha_achabtamayo.md)
